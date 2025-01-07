@@ -8,6 +8,7 @@ public class Car {
         this.name = name;
         System.out.println("차량 구입, 이름: " + name);
         totalCars++;
+        // 김광훈 테스트
     }
 
     public static void showTotalCars() {
